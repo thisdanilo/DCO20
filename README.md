@@ -33,7 +33,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Livewire](https://img.shields.io/badge/-livewire-0D1117?style=for-the-badge&logo=livewire&logoColor=23E4405F&labelColor=0D1117)&nbsp;
 
   
 
